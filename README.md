@@ -1,4 +1,4 @@
-# Proyecto1
+# Proyecto1.
 Integrantes:
 Brandon Esapu Siliezar Zetino
 Bryan José Chicas Amaya
